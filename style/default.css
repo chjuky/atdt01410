@@ -35,6 +35,10 @@ pre {
 	line-height: 16px;
 }
 
+input {
+	outline-style: none;
+}
+
 input.명령입력 {
 	height: 18;
 	margin: 0;
